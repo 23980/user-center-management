@@ -1,6 +1,6 @@
-package generator.mapper;
+package com.czh.usercenter.mapper;
 
-import generator.domain.User;
+import com.czh.usercenter.model.domain.User;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**

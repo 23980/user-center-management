@@ -1,6 +1,6 @@
-package generator.service;
+package com.czh.usercenter.service;
 
-import generator.domain.User;
+import com.czh.usercenter.model.domain.User;
 import com.baomidou.mybatisplus.extension.service.IService;
 
 /**

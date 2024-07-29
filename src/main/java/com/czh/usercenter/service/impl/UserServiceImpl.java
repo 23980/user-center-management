@@ -1,9 +1,9 @@
-package generator.service.impl;
+package com.czh.usercenter.service.impl;
 
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
-import generator.domain.User;
-import generator.service.UserService;
-import generator.mapper.UserMapper;
+import com.czh.usercenter.model.domain.User;
+import com.czh.usercenter.service.UserService;
+import com.czh.usercenter.mapper.UserMapper;
 import org.springframework.stereotype.Service;
 
 /**

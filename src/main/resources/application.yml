@@ -1,5 +1,4 @@
 spring:
-
   application:
     name: user-center
   datasource:
@@ -9,3 +8,11 @@ spring:
     password: 123456
 server:
   port: 8080
+mybatis-plus:
+  configuration:
+    map-underscore-to-camel-case: false
+##  global-config:
+##    # 全局配置
+#    db-config:
+##      # 数据库配置
+#      id-type: auto
